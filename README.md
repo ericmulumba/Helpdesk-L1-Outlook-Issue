@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=fes8-X3uTzI
 
 ### Step 1: Verify Network Connectivity
 - **Ping google.com:** To ensure the user's device has an active internet connection, I used the `ping google.com` command in the terminal. A successful ping confirms that the device is connected to the internet and can reach external servers.
-- **Check for firewall or DNS issues:** If the ping fails, there may be network-related issues such as firewall or DNS misconfigurations. Troubleshoot these problems by checking network settings or contacting the network administrator.
+<br> ![image](https://github.com/user-attachments/assets/47ba681e-2474-495c-be62-0f662fe096f8) <br>
 
 ### Step 2: Check "Send and Receive" Settings and "Work Offline" Mode
 - **Check Send/Receive settings:** Open the email client (e.g., Outlook) and go to the **Send/Receive** tab. Make sure that the "Send/Receive All Folders" option is enabled. This ensures that the client is attempting to send and receive emails.
