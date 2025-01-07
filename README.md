@@ -3,6 +3,8 @@
 ## Issue Overview
 This document provides a step-by-step guide, similar to a video tutorial, on how I resolved the issue of users being unable to send or receive emails in an organization's email system. The issue was affecting multiple users, and the solution addresses common causes for this problem. You can follow along with the video to see the troubleshooting process in action.
 
+https://www.youtube.com/watch?v=fes8-X3uTzI
+
 ## Steps Taken to Resolve the Issue
 
 ### Step 1: Verify Network Connectivity
