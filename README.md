@@ -30,6 +30,9 @@ https://www.youtube.com/watch?v=fes8-X3uTzI
   - For older versions of Outlook: `C:\Program Files\Microsoft Office\OfficeXX`
 - **Run `scanpst.exe`:** Double-click on the `scanpst.exe` file to launch the tool. When prompted, browse to the location of the corrupted PST file (usually found in `C:\Users\[Your Username]\Documents\Outlook Files`), and click **Start** to begin scanning.
 - **Repair PST File:** If the scan detects errors, click **Repair** to fix the corrupted PST file. After the process is complete, reopen Outlook and check if the issue is resolved.
+   
+![image](https://github.com/user-attachments/assets/7b5b8d9c-e9fb-453c-9ffe-48ae904a16e6)
+
 
 ### Step 5: Create a New Outlook Profile
 - **Open Control Panel:** Navigate to the **Control Panel** on the user's computer.
