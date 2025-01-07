@@ -53,6 +53,9 @@ https://www.youtube.com/watch?v=fes8-X3uTzI
   - At the bottom of the window, select **Go** next to Manage: COM Add-ins.
   - Uncheck all add-ins and click **OK**.
   - Restart Outlook to see if the issue is resolved. If it is, enable add-ins one at a time to identify the problematic one.
+ 
+  ![image](https://github.com/user-attachments/assets/21e346fc-ebec-4efa-bb01-1cfe9fb06b4a)
+
 
 ## Conclusion
 By following these easy steps, I was able to resolve the issue of emails not sending or receiving for the affected user. Regular monitoring and maintenance of email configurations can help prevent similar issues in the future.
