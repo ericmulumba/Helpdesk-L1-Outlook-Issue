@@ -15,10 +15,14 @@ https://www.youtube.com/watch?v=fes8-X3uTzI
 - **Check Send/Receive settings:** Open the email client (e.g., Outlook) and go to the **Send/Receive** tab. Make sure that the "Send/Receive All Folders" option is enabled. This ensures that the client is attempting to send and receive emails.
 - **Disable Work Offline mode:** Ensure the "Work Offline" option is not enabled in the email client. This mode prevents the email client from connecting to the mail server, causing issues with sending and receiving emails. If it is enabled, disable it to restore connectivity.
 
+![image](https://github.com/user-attachments/assets/64dcf7b2-ba26-44cf-98dd-8c9110df5e84)
+
 ### Step 3: Repair Outlook via Control Panel
 - **Open Control Panel:** Go to the **Control Panel** on the user’s computer.
 - **Select Programs and Features:** Click on **Programs** and then **Programs and Features**.
 - **Repair Outlook:** Find **Microsoft Office** in the list of installed programs, right-click on it, and select **Change**. Choose the **Repair** option and follow the on-screen instructions to fix any issues with Outlook. This will repair any broken or corrupted files in the Outlook installation, which can resolve issues with email sending or receiving.
+
+![image](https://github.com/user-attachments/assets/f9f2388e-657c-44a1-bc8c-33af40fb93bc)
 
 ### Step 4: Run the `scanpst.exe` Tool
 - **Locate the `scanpst.exe` Tool:** The `scanpst.exe` file is the Inbox Repair Tool provided by Microsoft. It is used to repair corrupted Outlook PST (Personal Storage Table) files. You can find it in the following directory on a Windows machine:
