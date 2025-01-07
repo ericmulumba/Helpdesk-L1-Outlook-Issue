@@ -42,6 +42,9 @@ https://www.youtube.com/watch?v=fes8-X3uTzI
 - **Set as Default:** Once the new profile is created, set it as the default profile. This can be done by selecting **Always use this profile** and choosing the newly created profile from the dropdown list.
 - **Test the New Profile:** Open Outlook with the new profile and check if the email sending/receiving issue is resolved.
 
+![image](https://github.com/user-attachments/assets/9a5feb84-9cb0-4c46-87a0-5e4ade1ecbb9)
+
+
 ### Step 6: Run Outlook in Safe Mode and Disable Add-ins
 - **Run Outlook in Safe Mode:** To start Outlook in Safe Mode, press **Ctrl** while launching Outlook or type `outlook.exe /safe` in the Run dialog (Win+R). This disables all add-ins and customizations that might be causing the issue.
 - **Disable Add-ins:** If the issue is resolved in Safe Mode, the problem may be due to an add-in. To disable add-ins:
